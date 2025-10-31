@@ -1,4 +1,4 @@
-# Experiential Sprinkles Cupcakes: Part 1
+# 🧁 Experiential Sprinkles Cupcakes: Part 1
 
 Build the **Flavor of the Day** feature using basic JavaScript and the DOM.
 
