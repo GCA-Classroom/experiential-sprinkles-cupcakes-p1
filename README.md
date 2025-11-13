@@ -17,7 +17,7 @@ Build the **Flavor of the Day** feature using basic JavaScript and the DOM.
 
 ## Optional Stretch
 
-Support countries where the week starts on Saturday (e.g., Bahrain) by adjusting the selection logic.
+Add a country dropdown so users can choose their region (USA, France, Japan, Italy), and display a signature cupcake flavor for each country with themed colors from their flag.
 
 ## You’ll Practice
 
